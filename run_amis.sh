@@ -25,7 +25,7 @@ SCORER_MODEL="gpt-4o-mini-2024-07-18"
 SCORE_OPTIM_MODEL="gpt-4o-mini-2024-07-18"
 ASR_MODEL="gpt-4o-mini-2024-07-18"
 
-JAILBREAK_DATA_PATH="./data/advbench_subset.json"
+JAILBREAK_DATA_PATH="./data/advbench.json"
 INITIAL_TEMPLATES_PATH=""
 BEST_SEED_TEMPLATES_PATH=""
 LOG_DIR="amis_log"
